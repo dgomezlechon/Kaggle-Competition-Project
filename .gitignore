@@ -16,5 +16,5 @@ contraseñas.txt
 *.hdf5
 *.h5
 *.parquet
-*.csv
+
 *.txt
